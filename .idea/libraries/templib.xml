@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="templib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/templib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/templib" recursive="false" />
+  </library>
+</component>

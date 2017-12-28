@@ -1,4 +1,4 @@
-package lovin.springboot;
+package lovin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
